@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/background.jpg</file>
+        <file>Gameplay.qml</file>
+        <file>GameZone.qml</file>
+        <file>Brick.qml</file>
+    </qresource>
+</RCC>
